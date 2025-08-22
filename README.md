@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Chris
-- 👀 I’m interested in AI no-code apps
-- 🌱 I’m currently learning everything
-- 📫 How to reach me: email me
-- ⚡ Fun fact: Fun all life
+👋  Hi, I’m Chris
