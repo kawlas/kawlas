@@ -1,4 +1,5 @@
-👋  Hi, I’m Chris
+👋  Hi, I’m Chris.
+
 Few apps I've made:
 
 https://qconverter.netlify.app
